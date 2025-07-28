@@ -1,3 +1,2 @@
-
-<img src = "images\Screenshot 2025-07-28 184702.png" alt = "description">
+<img src = "images/Screenshot 2025-07-28 184702.png" alt = "description">
 
