@@ -1,2 +1,2 @@
 # 5217789_MANNE-RAMYA-SRI
-<img src=""C:\Users\ramyasri\OneDrive\Documents\stepIn\5217789_MANNE-RAMYA-SRI\sdlc\certificate\great learning.png"" [alt="image">
+<img src=""C:\Users\ramyasri\OneDrive\Documents\stepIn\5217789_MANNE-RAMYA-SRI\sdlc\certificate\great learning.png"" [alt="description">
