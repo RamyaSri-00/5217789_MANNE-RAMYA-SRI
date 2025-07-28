@@ -1,2 +1,1 @@
-<img src = "images/Screenshot 2025-07-28 184702.png" alt = "description">
-
+<img src = "images\WhatsApp Image 2025-07-28 at 20.45.30_f00b3afd.jpg" alt = "description">
