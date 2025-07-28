@@ -1,1 +1,1 @@
-<img src = "C:\Users\ramyasri\OneDrive\Documents\stepIn\5217789_MANNE-RAMYA-SRI\sdlc\certificate\great learning.png" alt = "description">
+<img src = "images\Screenshot 2025-07-28 184702.png" alt = "description">
