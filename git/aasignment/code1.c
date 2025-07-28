@@ -1,5 +1,5 @@
 void main(){
-    int adh = 2340;
-    int cde = 450;
+    int ram = 2323440;
+    int ramya = 0;
     
 }
